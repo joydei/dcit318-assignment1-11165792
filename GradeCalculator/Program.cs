@@ -7,7 +7,7 @@ class Program
         Console.WriteLine("Welcome to the Grade Calculator!");
 
         Console.Write("Enter your score (0-100): ");
-        string input = Console.ReadLine();
+        string input = Console.ReadLine() ?? string.Empty;
         int score;
         if (int.TryParse(input, out score))
         {

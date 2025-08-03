@@ -1,0 +1,15 @@
+C:\Users\Razer\Desktop\dcit318-assignment1-11165792\TriangleIdentifier\bin\Debug\net9.0\TriangleIdentifier.exe
+C:\Users\Razer\Desktop\dcit318-assignment1-11165792\TriangleIdentifier\bin\Debug\net9.0\TriangleIdentifier.deps.json
+C:\Users\Razer\Desktop\dcit318-assignment1-11165792\TriangleIdentifier\bin\Debug\net9.0\TriangleIdentifier.runtimeconfig.json
+C:\Users\Razer\Desktop\dcit318-assignment1-11165792\TriangleIdentifier\bin\Debug\net9.0\TriangleIdentifier.dll
+C:\Users\Razer\Desktop\dcit318-assignment1-11165792\TriangleIdentifier\bin\Debug\net9.0\TriangleIdentifier.pdb
+C:\Users\Razer\Desktop\dcit318-assignment1-11165792\TriangleIdentifier\obj\Debug\net9.0\TriangleIdentifier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Razer\Desktop\dcit318-assignment1-11165792\TriangleIdentifier\obj\Debug\net9.0\TriangleIdentifier.AssemblyInfoInputs.cache
+C:\Users\Razer\Desktop\dcit318-assignment1-11165792\TriangleIdentifier\obj\Debug\net9.0\TriangleIdentifier.AssemblyInfo.cs
+C:\Users\Razer\Desktop\dcit318-assignment1-11165792\TriangleIdentifier\obj\Debug\net9.0\TriangleIdentifier.csproj.CoreCompileInputs.cache
+C:\Users\Razer\Desktop\dcit318-assignment1-11165792\TriangleIdentifier\obj\Debug\net9.0\TriangleIdentifier.sourcelink.json
+C:\Users\Razer\Desktop\dcit318-assignment1-11165792\TriangleIdentifier\obj\Debug\net9.0\TriangleIdentifier.dll
+C:\Users\Razer\Desktop\dcit318-assignment1-11165792\TriangleIdentifier\obj\Debug\net9.0\refint\TriangleIdentifier.dll
+C:\Users\Razer\Desktop\dcit318-assignment1-11165792\TriangleIdentifier\obj\Debug\net9.0\TriangleIdentifier.pdb
+C:\Users\Razer\Desktop\dcit318-assignment1-11165792\TriangleIdentifier\obj\Debug\net9.0\TriangleIdentifier.genruntimeconfig.cache
+C:\Users\Razer\Desktop\dcit318-assignment1-11165792\TriangleIdentifier\obj\Debug\net9.0\ref\TriangleIdentifier.dll
